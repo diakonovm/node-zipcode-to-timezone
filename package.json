@@ -1,5 +1,5 @@
 {
-  "name": "zipcode-to-timezone",
+  "name": "@diakonovm/zipcode-to-timezone",
   "version": "0.0.10",
   "description": "Converts a timezone to a zipcode",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/DoubleDor/node-zipcode-to-timezone.git"
+    "url": "git+ssh://git@github.com:diakonovm/node-zipcode-to-timezone.git"
   },
   "keywords": [
     "timezone",
